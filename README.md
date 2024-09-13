@@ -1,7 +1,7 @@
 # Hi, I'm Swgtds 👋
 
 ### About Me
-I'm currently pursuing a **Bachelor of Technology in Computer Science and Engineering** at **Guru Nanak Institute Of Technology**. With a strong academic foundation in Data Structures, Algorithms, AI, and Machine Learning, I am passionate about leveraging technology to solve real-world problems. My interests span from **image processing** to **Linux customization** and **mental health tech** solutions.
+I'm currently pursuing a **Bachelor of Technology in Computer Science and Engineering** at **Guru Nanak Institute Of Technology**. With a strong academic foundation in Data Structures, Algorithms, AI, and Machine Learning, I am passionate about leveraging technology to solve real-world problems. My interests span from **image processing** to **Linux customization**.
 
 ### Skills
 - **Languages**: JAVA, C++, C, Python, Shell, JavaScript, SQL
