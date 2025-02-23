@@ -16,8 +16,9 @@ I am highly interested in **customizing Linux environments** and building **effi
 
 ## 📌 Current Projects
 
-- **[StumpVizz](https://stumpvizz.vercel.app)** – A sports visualization app with a powerful backend.
-- Exploring more database optimizations and API performance tuning.
+- **[StumpVizz](https://stumpvizz.vercel.app)**
+  A next-gen cricket live streaming app that delivers high-quality, ad-free match viewing for cricket enthusiasts.
+  Exploring more database optimizations and API performance tuning.
 
 ### [dmenu-recency](https://github.com/swgtds/dmenu-recency)
 A personalized customization of `dmenu`, adding a recency-based sorting mechanism for improved workflow.
