@@ -19,13 +19,13 @@ I am highly interested in **customizing Linux environments** and building **effi
 - **[StumpVizz](https://stumpvizz.vercel.app)** – A sports visualization app with a powerful backend.
 - Exploring more database optimizations and API performance tuning.
 
-### [📌 dmenu-recency](https://github.com/swgtds/dmenu-recency)
+### [dmenu-recency](https://github.com/swgtds/dmenu-recency)
 A personalized customization of `dmenu`, adding a recency-based sorting mechanism for improved workflow.
 
-### [📌 feeflow](https://github.com/swgtds/feeflow)
+### [feeflow](https://github.com/swgtds/feeflow)
 A Django-based admin panel designed for managing and tracking student fees, featuring invoice generation, payment tracking, and email notifications.
 
-### [📌 slstatus](https://github.com/swgtds/slstatus)
+### [slstatus](https://github.com/swgtds/slstatus)
 A suckless status monitor for window managers that use WM_NAME or stdin to fill the status bar.
 
 ## 🛠️ Tech Stack
