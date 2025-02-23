@@ -16,7 +16,7 @@ I am highly interested in **customizing Linux environments** and building **effi
 
 ## 📌 Current Projects
 
-**[StumpVizz](https://stumpvizz.vercel.app)**
+### [StumpVizz](https://stumpvizz.vercel.app)**
   A next-gen cricket live streaming app that delivers high-quality, ad-free match viewing for cricket enthusiasts.
   Exploring more database optimizations and API performance tuning.
 
