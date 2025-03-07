@@ -3,7 +3,7 @@
 [![GitHub Profile](https://img.shields.io/badge/GitHub-swgtds-181717?style=flat&logo=github)](https://github.com/swgtds)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/swgtds/)
 
-![System Setup](my-setup.jp)
+![System Setup](my-setup.jpg)
 
 ## About Me
 
