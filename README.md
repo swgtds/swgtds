@@ -7,7 +7,7 @@
 
 ## About Me
 
-Hello! I'm Swagata Das, a passionate software developer and a Linux enthusiast with over four years of experience working with Linux and its filesystems. I'm currently pursuing a **Bachelor of Technology in Computer Science and Engineering**. My expertise lies in:
+I am a passionate software developer and a Linux enthusiast with over four years of experience working with Linux and its filesystems. I'm currently pursuing a **Bachelor of Technology in Computer Science and Engineering**. My expertise lies in:
 
 - **Backend Development**: Express.js, PostgreSQL
 - **Frontend Development**: React.js, Next.js, Vite
@@ -42,7 +42,7 @@ A suckless status monitor for window managers that use WM_NAME or stdin to fill 
 ## 📫 Get in Touch
 
 - GitHub: [github.com/swgtds](https://github.com/swgtds)
-- Email: [your.email@example.com](mailto:swagatadas003@gmail.com)
+- Email: [swagatadas003@gmail.com](mailto:swagatadas003@gmail.com)
 - LinkedIn: [linkedin.com/in/swagata-das](https://www.linkedin.com/in/swgtds/)
   
 
