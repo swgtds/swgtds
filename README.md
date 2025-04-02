@@ -10,7 +10,9 @@
 - 👨‍💻 Linux has been my go-to operating system for over 4 years.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/swgtds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swgtds" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/swgtds" target="blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)" alt="swgtds"  /></a>
+<a href="mailto:swagatadas003@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="swgtds" height="30" /></a>
+<a href="mailto:swagatadas.sd@outlook.com" target="blank"><img align="center" src="https://www.ryadel.com/wp-content/uploads/2015/09/outlook-logo.png" alt="swgtds" height="30" width="100" /></a>
 </p>
 
 <div align="center">
