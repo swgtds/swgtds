@@ -5,18 +5,17 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [https://swgtds.in](https://swgtds.in)
-
-- 📫 How to reach me **swagatadas003@gmail.com**
-
+- 😇 Have development experience using JavaScript, Golang, and Python
+  
+- 👨‍💻 Linux has been my go-to operating system for over 4 years.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/swgtds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swgtds" height="30" width="40" /></a>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swgtds&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swgtds&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=swgtds&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" height="210" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swgtds&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="210" alt="languages graph"  />
 </div>
 
 ###
@@ -106,7 +105,7 @@
 </div>
 
 <div align="center">
-  <img height="200" src="https://github.com/swgtds/swgtds/blob/main/my-setup.jpg"  />
+  <img src="https://github.com/swgtds/swgtds/blob/main/my-setup.jpg"  />
 </div>
 
 ###
