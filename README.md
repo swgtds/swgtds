@@ -1,49 +1,109 @@
-# Hello, I am Swagata!
+<h1 align="center">Hi, I'm Swagata</h1>
+<h3 align="center">I am a passionate software developer and a Linux enthusiast with over four years of experience working with Linux and its filesystems. I'm currently pursuing a Bachelor of Technology in Computer Science and Engineering.</h3>
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-swgtds-181717?style=flat&logo=github)](https://github.com/swgtds)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/swgtds/)
+- 🔭 I’m currently working on [StumpVizz](https://stumpvizz.vercel.app)
 
-![System Setup](my-setup.jpg)
+- 🌱 I’m currently learning **Rust**
 
-## About Me
+- 👨‍💻 All of my projects are available at [https://swgtds.in](https://swgtds.in)
 
-I am a passionate software developer and a Linux enthusiast with over four years of experience working with Linux and its filesystems. I'm currently pursuing a **Bachelor of Technology in Computer Science and Engineering**. My expertise lies in:
+- 📫 How to reach me **swagatadas003@gmail.com**
 
-- **Backend Development**: Express.js, PostgreSQL
-- **Frontend Development**: React.js, Next.js, Vite
-- **Systems & Linux**: Arch Linux, DWM, Xorg, PipeWire
-- **Machine Learning & AI**: Data Structures, Algorithms, and Image Processing
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/swgtds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swgtds" height="30" width="40" /></a>
+</p>
 
-I am highly interested in **customizing Linux environments** and building **efficient, minimalist software solutions**.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swgtds&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&custom_title=Github%20Stats" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=swgtds&locale=en&mode=weekly&theme=gruvbox&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swgtds&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## 📌 Current Projects
+###
 
-### [StumpVizz](https://stumpvizz.vercel.app)
-  A next-gen cricket live streaming app that delivers high-quality, ad-free match viewing for cricket enthusiasts.
-  Exploring more database optimizations and API performance tuning.
+<h2 align="left">My Tech Stack</h2>
 
-### [dmenu-recency](https://github.com/swgtds/dmenu-recency)
-A personalized customization of `dmenu`, adding a recency-based sorting mechanism for improved workflow.
+###
 
-### [feeflow](https://github.com/swgtds/feeflow)
-A Django-based admin panel designed for managing and tracking student fees, featuring invoice generation, payment tracking, and email notifications.
+<div align="left">
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="30" alt="django logo"  />
+</div>
 
-### [slstatus](https://github.com/swgtds/slstatus)
-A suckless status monitor for window managers that use WM_NAME or stdin to fill the status bar.
+###
 
-## 🛠️ Tech Stack
+<div align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge" height="30" alt="yarn logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" height="30" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" height="30" alt="oracle logo"  />
+</div>
 
-- **Languages**: TypeScript, JAVA, Python, C, JavaScript
-- **Backend**: Express.js, Django, PostgreSQL
-- **Frontend**: React.js, Tailwind CSS
-- **Operating System**: Arch Linux + DWM(Highly Customized Setup)
-- **DevOps & Deployment:** Docker, Render, GitHub Actions
+###
 
-## 📫 Get in Touch
+<div align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
+</div>
 
-- GitHub: [github.com/swgtds](https://github.com/swgtds)
-- Email: [swagatadas003@gmail.com](mailto:swagatadas003@gmail.com)
-- LinkedIn: [linkedin.com/in/swagata-das](https://www.linkedin.com/in/swgtds/)
-  
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white&style=for-the-badge" height="40" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
+</div>
 
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Alpine Linux-0D597F?logo=alpinelinux&logoColor=white&style=for-the-badge" height="40" alt="alpinelinux logo"  />
+</div>
+
+###
