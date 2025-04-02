@@ -16,7 +16,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=swgtds&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swgtds&theme=gruvbox&hide_border=true" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swgtds&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -106,4 +105,9 @@
   <img src="https://img.shields.io/badge/Alpine Linux-0D597F?logo=alpinelinux&logoColor=white&style=for-the-badge" height="40" alt="alpinelinux logo"  />
 </div>
 
+<div align="center">
+  <img height="200" src="https://github.com/swgtds/swgtds/blob/main/my-setup.jpg"  />
+</div>
+
+###
 ###
