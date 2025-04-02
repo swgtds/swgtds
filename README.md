@@ -92,6 +92,8 @@
   <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white&style=for-the-badge" height="40" alt="cmake logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="40" alt="c logo"  />
 </div>
 
 ###
@@ -102,8 +104,10 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="40" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Alpine Linux-0D597F?logo=alpinelinux&logoColor=white&style=for-the-badge" height="40" alt="alpinelinux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/arch%20linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white" height="40" alt="alpinelinux logo"  />
 </div>
-
+<h2 align="left">My System Setup</h2>
 <div align="center">
   <img src="https://github.com/swgtds/swgtds/blob/main/my-setup.jpg"  />
 </div>
