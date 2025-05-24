@@ -1,9 +1,8 @@
 <h1 align="left">Hi, I'm Swagata</h1>
 <h3 align="left">I am a passionate software developer and a Linux enthusiast with over four years of experience working with Linux and its filesystems. I'm currently pursuing a Bachelor of Technology in Computer Science and Engineering.</h3>
 
-- I’m currently working on [UReduce](https://ureduce.vercel.app/)
-
-- Built [StumpVizz](https://stumpvizz.vercel.app)
+- I’m currently working on [DefraudX()](https://github.com/swgtds/fraud-alert-backend)
+- Built [StumpVizz](https://stumpvizz.vercel.app), [URL Shortner](https://ureduce.vercel.app/)
 
 - Have development experience using JavaScript, Golang, and Python
   
