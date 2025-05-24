@@ -2,10 +2,9 @@
 <h3 align="left">I am a passionate software developer and a Linux enthusiast with over four years of experience working with Linux and its filesystems. I'm currently pursuing a Bachelor of Technology in Computer Science and Engineering.</h3>
 
 - I’m currently working on [DefraudX](https://github.com/swgtds/fraud-alert-backend)
-- Built [StumpVizz](https://stumpvizz.vercel.app), [URL Shortner](https://ureduce.vercel.app/)
-
-- Have development experience using JavaScript, Golang, and Python
-  
+- One of my best projects [StumpVizz](https://stumpvizz.vercel.app)
+- Currently learning Rust.
+- Have development experience using JavaScript, Golang, and Python.
 - Linux has been my go-to operating system for over 4 years.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
