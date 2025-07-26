@@ -1,5 +1,6 @@
 <h1 align="left">Hi, I'm Swagata</h1>
 <h3 align="left">I am a passionate software developer and a Linux enthusiast with over four years of experience working with Linux and its filesystems. I'm currently pursuing a Bachelor of Technology in Computer Science and Engineering.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swgtds" alt="swgtds" /> </p>
 
 - I’m currently working on [DefraudX](https://github.com/swgtds/fraud-alert-backend)
 - One of my best projects [Portal](https://p.swgtds.in/), [UReduce](https://ureduce.swgtds.in/) and [StumpVizz](https://stumpvizz.vercel.app).
