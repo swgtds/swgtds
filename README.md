@@ -1,11 +1,19 @@
-<h1 align="left">Hi, I'm Swagata</h1>
-<h3 align="left">I am a passionate software developer and a Linux enthusiast with over four years of experience working with Linux and its filesystems. I'm currently pursuing a Bachelor of Technology in Computer Science and Engineering.</h3>
+<h1 align="left">Hi there, I'm Swagata</h1>
+<h3 align="left">Passionate Software Developer | Linux Power User | Full-Stack & Systems Enthusiast</h3>
 
-- I’m currently working on [DefraudX](https://github.com/swgtds/fraud-alert-backend)
-- One of my best projects [Portal](https://p.swgtds.in/), [UReduce](https://ureduce.swgtds.in/) and [StumpVizz](https://stumpvizz.vercel.app).
-- Currently learning Rust.
-- Have development experience using JavaScript/TypeScript, Golang, and Python.
-- Linux has been my go-to operating system for over 4 years.
+- I’m currently pursuing a B.Tech in Computer Science and Engineering.  
+- A Linux enthusiast with over 4 years of hands-on experience working with Linux systems and filesystems.  
+- I build clean, scalable, and performant software, from backend systems to full-stack web apps.
+
+---
+
+### Current Projects
+- [**DeFraudX**](https://github.com/swgtds/fraud-alert-backend): An AI-Blockchain powered fraud detection system for real-time alerts and analytics.
+- [**StumpVizz**](https://stumpvizz.vercel.app): An ad-free, high-quality live cricket streaming platform.
+- [**Portal**](https://p.swgtds.in): A real-time collaborative text editor with room-based access and WebSocket-powered synchronization.
+- [**UReduce**](https://ureduce.swgtds.in): A blazing-fast URL shortener with analytics and custom slugs.
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swgtds" alt="swgtds" /> </p>
 <h3 align="left">Connect with me:</h3>
