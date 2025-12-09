@@ -8,10 +8,10 @@
 ---
 
 ### Current Projects
+- [**Kernel**](https://k.swgtds.in): A RAG-powered conversational assistant that lets you chat intelligently with any GitHub repository.
+- [**StumpVizz**](https://stumpvizz.vercel.app): An ad-free, high-quality live cricket streaming platform with AI Match Summarisaton.
+- [**Portal**](https://p.swgtds.in): AI powered real-time collaborative text editor with room-based access and WebSocket-powered synchronization.
 - [**DeFraudX**](https://github.com/swgtds/fraud-alert-backend): An AI-Blockchain powered fraud detection system for real-time alerts and analytics.
-- [**StumpVizz**](https://stumpvizz.vercel.app): An ad-free, high-quality live cricket streaming platform.
-- [**Portal**](https://p.swgtds.in): A real-time collaborative text editor with room-based access and WebSocket-powered synchronization.
-- [**UReduce**](https://ureduce.swgtds.in): A blazing-fast URL shortener with analytics and custom slugs.
 
 ---
 
